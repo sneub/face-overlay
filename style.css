@@ -1,0 +1,18 @@
+#img-container {
+  display: block;
+}
+
+#canvas {
+  display: none;
+}
+
+#video-bg > video {
+  display: block;
+}
+
+#hair {
+  left: -1000px;
+  position: absolute;
+  top: -1000px;
+  display: none;
+}
